@@ -255,5 +255,5 @@
 #print(l)
 
 #DELETE
-#l=[10,20,30,40,50]
-#print(l.delete[50])
+l=[10,20,30,40,50]
+print(l.delete[50])
