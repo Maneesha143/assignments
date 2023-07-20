@@ -253,7 +253,3 @@
 #l=["Amazon","Netflix","Voot","Sony"]
 #l[3]="MX Player"
 #print(l)
-
-#DELETE
-l=[10,20,30,40,50]
-print(l.delete[50])
